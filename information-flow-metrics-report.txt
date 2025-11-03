@@ -1,0 +1,59 @@
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                 INFORMATION FLOW METRICS - FAN-IN/FAN-OUT                     ║
+║                    Generated: 11/3/2025, 1:32:54 AM                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+
+
+╔════════════════════════════════════════════════════════════════╗
+║                         PROJECT SUMMARY                        ║
+╠════════════════════════════════════════════════════════════════╣
+║  Total Modules Analyzed:                       1 ║
+║  Total Functions:                              9 ║
+║                                                                 ║
+║  Total Fan-In:                                 1 ║
+║  Total Fan-Out:                                1 ║
+║                                                                 ║
+║  Average Fan-In:                            0.11 ║
+║  Average Fan-Out:                           0.11 ║
+╚════════════════════════════════════════════════════════════════╝
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                    FUNCTION-LEVEL METRICS                                    ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  Function                    │ Module      │ Fan-In │ Fan-Out                ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+
+║  generateRoomId               │ server     │      1 │       0 ║
+║  socket.on_create-room        │ server     │      0 │       1 ║
+║  app.get_/                    │ server     │      0 │       0 ║
+║  io.on_connection             │ server     │      0 │       0 ║
+║  socket.on_join-room          │ server     │      0 │       0 ║
+║  socket.on_draw               │ server     │      0 │       0 ║
+║  socket.on_canvas-state-up... │ server     │      0 │       0 ║
+║  socket.on_disconnect         │ server     │      0 │       0 ║
+║  server.listen_handler        │ server     │      0 │       0 ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════╗
+║                    INTERPRETATION                              ║
+╠════════════════════════════════════════════════════════════════╣
+║  Fan-In:    Number of functions that call this function        ║
+║             Higher = more reused (good)                        ║
+║             Ideal: > 5 for reusable functions                   ║
+║                                                                 ║
+║  Fan-Out:   Number of user-defined functions this calls        ║
+║             Higher = more dependencies                         ║
+║             Ideal: < 7 (fewer dependencies = easier maintenance)║
+║                                                                 ║
+║  Average Fan-In:  Mean fan-in across all functions            ║
+║                   Indicates overall code reusability           ║
+║                                                                 ║
+║  Average Fan-Out: Mean fan-out across all functions            ║
+║                   Indicates overall dependency level            ║
+║                                                                 ║
+║  Best Practice: High Fan-In, Low Fan-Out                      ║
+║                 (Reusable code with few dependencies)            ║
+╚════════════════════════════════════════════════════════════════╝

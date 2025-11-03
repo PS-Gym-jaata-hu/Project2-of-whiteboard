@@ -1,0 +1,215 @@
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                    HALSTEAD METRICS ANALYSIS REPORT                          ║
+║                    Generated: 11/3/2025, 1:33:44 AM                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+
+╔════════════════════════════════════════════════════════════════╗
+║           HALSTEAD METRICS: server.js                           ║
+╠════════════════════════════════════════════════════════════════╣
+║  Basic Metrics:                                                ║
+║    • Distinct Operators (n1):                21 ║
+║    • Distinct Operands (n2):                 88 ║
+║    • Program Vocabulary (n):                 109 ║
+║    • Total Operators (N1):                    438 ║
+║    • Total Operands (N2):                     287 ║
+║    • Program Length (N):                      725 ║
+║                                                                 ║
+║  Derived Metrics:                                              ║
+║    • Calculated Length (N^):                  661 ║
+║    • Volume (V):                             4907 ║
+║    • Difficulty (D):                           34 ║
+║    • Effort (E):                           168035 ║
+║    • Time to Implement (T):                  9335 sec ║
+║    • Estimated Bugs (B):                     1.64 ║
+╚════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════╗
+║           HALSTEAD METRICS: Forms.tsx                           ║
+╠════════════════════════════════════════════════════════════════╣
+║  Basic Metrics:                                                ║
+║    • Distinct Operators (n1):                 0 ║
+║    • Distinct Operands (n2):                  0 ║
+║    • Program Vocabulary (n):                   0 ║
+║    • Total Operators (N1):                      0 ║
+║    • Total Operands (N2):                       0 ║
+║    • Program Length (N):                        0 ║
+║                                                                 ║
+║  Derived Metrics:                                              ║
+║    • Calculated Length (N^):                  NaN ║
+║    • Volume (V):                              NaN ║
+║    • Difficulty (D):                          NaN ║
+║    • Effort (E):                              NaN ║
+║    • Time to Implement (T):                   NaN sec ║
+║    • Estimated Bugs (B):                      NaN ║
+╚════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════╗
+║           HALSTEAD METRICS: Join_create_room.tsx                ║
+╠════════════════════════════════════════════════════════════════╣
+║  Basic Metrics:                                                ║
+║    • Distinct Operators (n1):                 0 ║
+║    • Distinct Operands (n2):                  0 ║
+║    • Program Vocabulary (n):                   0 ║
+║    • Total Operators (N1):                      0 ║
+║    • Total Operands (N2):                       0 ║
+║    • Program Length (N):                        0 ║
+║                                                                 ║
+║  Derived Metrics:                                              ║
+║    • Calculated Length (N^):                  NaN ║
+║    • Volume (V):                              NaN ║
+║    • Difficulty (D):                          NaN ║
+║    • Effort (E):                              NaN ║
+║    • Time to Implement (T):                   NaN sec ║
+║    • Estimated Bugs (B):                      NaN ║
+╚════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════╗
+║           HALSTEAD METRICS: Sidebar.tsx                         ║
+╠════════════════════════════════════════════════════════════════╣
+║  Basic Metrics:                                                ║
+║    • Distinct Operators (n1):                 0 ║
+║    • Distinct Operands (n2):                  0 ║
+║    • Program Vocabulary (n):                   0 ║
+║    • Total Operators (N1):                      0 ║
+║    • Total Operands (N2):                       0 ║
+║    • Program Length (N):                        0 ║
+║                                                                 ║
+║  Derived Metrics:                                              ║
+║    • Calculated Length (N^):                  NaN ║
+║    • Volume (V):                              NaN ║
+║    • Difficulty (D):                          NaN ║
+║    • Effort (E):                              NaN ║
+║    • Time to Implement (T):                   NaN sec ║
+║    • Estimated Bugs (B):                      NaN ║
+╚════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════╗
+║           HALSTEAD METRICS: Whiteboard.tsx                      ║
+╠════════════════════════════════════════════════════════════════╣
+║  Basic Metrics:                                                ║
+║    • Distinct Operators (n1):                 0 ║
+║    • Distinct Operands (n2):                  0 ║
+║    • Program Vocabulary (n):                   0 ║
+║    • Total Operators (N1):                      0 ║
+║    • Total Operands (N2):                       0 ║
+║    • Program Length (N):                        0 ║
+║                                                                 ║
+║  Derived Metrics:                                              ║
+║    • Calculated Length (N^):                  NaN ║
+║    • Volume (V):                              NaN ║
+║    • Difficulty (D):                          NaN ║
+║    • Effort (E):                              NaN ║
+║    • Time to Implement (T):                   NaN sec ║
+║    • Estimated Bugs (B):                      NaN ║
+╚════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════╗
+║           HALSTEAD METRICS: root.tsx                            ║
+╠════════════════════════════════════════════════════════════════╣
+║  Basic Metrics:                                                ║
+║    • Distinct Operators (n1):                 0 ║
+║    • Distinct Operands (n2):                  0 ║
+║    • Program Vocabulary (n):                   0 ║
+║    • Total Operators (N1):                      0 ║
+║    • Total Operands (N2):                       0 ║
+║    • Program Length (N):                        0 ║
+║                                                                 ║
+║  Derived Metrics:                                              ║
+║    • Calculated Length (N^):                  NaN ║
+║    • Volume (V):                              NaN ║
+║    • Difficulty (D):                          NaN ║
+║    • Effort (E):                              NaN ║
+║    • Time to Implement (T):                   NaN sec ║
+║    • Estimated Bugs (B):                      NaN ║
+╚════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════╗
+║           HALSTEAD METRICS: chatroom.tsx                        ║
+╠════════════════════════════════════════════════════════════════╣
+║  Basic Metrics:                                                ║
+║    • Distinct Operators (n1):                 0 ║
+║    • Distinct Operands (n2):                  0 ║
+║    • Program Vocabulary (n):                   0 ║
+║    • Total Operators (N1):                      0 ║
+║    • Total Operands (N2):                       0 ║
+║    • Program Length (N):                        0 ║
+║                                                                 ║
+║  Derived Metrics:                                              ║
+║    • Calculated Length (N^):                  NaN ║
+║    • Volume (V):                              NaN ║
+║    • Difficulty (D):                          NaN ║
+║    • Effort (E):                              NaN ║
+║    • Time to Implement (T):                   NaN sec ║
+║    • Estimated Bugs (B):                      NaN ║
+╚════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════╗
+║           HALSTEAD METRICS: home.tsx                            ║
+╠════════════════════════════════════════════════════════════════╣
+║  Basic Metrics:                                                ║
+║    • Distinct Operators (n1):                 0 ║
+║    • Distinct Operands (n2):                  0 ║
+║    • Program Vocabulary (n):                   0 ║
+║    • Total Operators (N1):                      0 ║
+║    • Total Operands (N2):                       0 ║
+║    • Program Length (N):                        0 ║
+║                                                                 ║
+║  Derived Metrics:                                              ║
+║    • Calculated Length (N^):                  NaN ║
+║    • Volume (V):                              NaN ║
+║    • Difficulty (D):                          NaN ║
+║    • Effort (E):                              NaN ║
+║    • Time to Implement (T):                   NaN sec ║
+║    • Estimated Bugs (B):                      NaN ║
+╚════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════╗
+║           HALSTEAD METRICS: routes.ts                           ║
+╠════════════════════════════════════════════════════════════════╣
+║  Basic Metrics:                                                ║
+║    • Distinct Operators (n1):                 0 ║
+║    • Distinct Operands (n2):                  0 ║
+║    • Program Vocabulary (n):                   0 ║
+║    • Total Operators (N1):                      0 ║
+║    • Total Operands (N2):                       0 ║
+║    • Program Length (N):                        0 ║
+║                                                                 ║
+║  Derived Metrics:                                              ║
+║    • Calculated Length (N^):                  NaN ║
+║    • Volume (V):                              NaN ║
+║    • Difficulty (D):                          NaN ║
+║    • Effort (E):                              NaN ║
+║    • Time to Implement (T):                   NaN sec ║
+║    • Estimated Bugs (B):                      NaN ║
+╚════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════╗
+║           OVERALL PROJECT METRICS                              ║
+╠════════════════════════════════════════════════════════════════╣
+║  Files Analyzed:                         9 ║
+║  Distinct Operators (n1):                21 ║
+║  Distinct Operands (n2):                 20 ║
+║  Program Vocabulary (n):                  41 ║
+║  Total Operators (N1):                    438 ║
+║  Total Operands (N2):                     287 ║
+║  Program Length (N):                      725 ║
+║                                                                 ║
+║  Calculated Length (N^):                  179 ║
+║  Volume (V):                             3884 ║
+║  Difficulty (D):                          151 ║
+║  Effort (E):                           585256 ║
+║  Time to Implement (T):                 32514 sec ║
+║  Estimated Bugs (B):                     1.29 ║
+╚════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════╗
+║                        INTERPRETATION                          ║
+╠════════════════════════════════════════════════════════════════╣
+║  Volume (V):       Higher = more complex code                  ║
+║  Difficulty (D):   Higher = harder to maintain                ║
+║  Effort (E):       Estimated mental effort required           ║
+║  Time (T):         Estimated time in seconds                   ║
+║  Bugs (B):         Estimated number of bugs                   ║
+╚════════════════════════════════════════════════════════════════╝

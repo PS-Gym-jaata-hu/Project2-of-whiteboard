@@ -1,0 +1,21 @@
+{
+  "name": "project2_whiteboard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "halstead": "node halstead-metrics.js",
+    "metrics": "node halstead-metrics.js",
+    "info-metrics": "node information-metrics.js",
+    "flow-metrics": "node information-flow-metrics.js",
+    "all-metrics": "npm run halstead && npm run info-metrics && npm run flow-metrics"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Whiteboard collaborative application with Halstead metrics analysis",
+  "devDependencies": {
+    "complexity-report": "^2.0.0-alpha",
+    "esprima": "^4.0.1",
+    "estraverse": "^5.3.0"
+  }
+}
